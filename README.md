@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
