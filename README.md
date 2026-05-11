@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -99,9 +101,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
