@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
