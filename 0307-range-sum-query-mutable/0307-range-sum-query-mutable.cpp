@@ -7,7 +7,7 @@ public:
         segtree.resize(4*n);
         build(0,0,n-1,nums);
     }
-    void build(int idx,int low,int high,vector<int> &nums){
+    void build(int idx,int low,int high,vector<int>& nums){
         if(low==high){
             segtree[idx]=nums[low];
             return;
@@ -17,7 +17,7 @@ public:
         build(2*idx+2,mid+1,high,nums);
         segtree[idx]=segtree[2*idx+1]+segtree[2*idx+2];
     }
-    void updatehelper(int idx,int low,int high,int i,int val) {
+    void updatehelper(int idx,int low,int high,int i,int val){
         if(low==high){
             segtree[idx]=val;
             return;
@@ -31,21 +31,22 @@ public:
         }
         segtree[idx]=segtree[2*idx+1]+segtree[2*idx+2];
     }
+    void update(int index, int val) {
+        updatehelper(0,0,n-1,index,val);
+    }
     int query(int idx,int low,int high,int l,int r){
-        if (high<l || low>r){
+        if(high<l || low>r){
             return 0;
         }
-        if (low>=l && high<=r){
+        if(low>=l && high <=r){
             return segtree[idx];
         }
         int mid=(low+high)/2;
         int left=query(2*idx+1,low,mid,l,r);
         int right=query(2*idx+2,mid+1,high,l,r);
-        return left + right;
+        return left+right;
     }
-    void update(int idx,int val){
-        updatehelper(0,0,n-1,idx,val);
-    }
+    
     int sumRange(int left, int right) {
         return query(0,0,n-1,left,right);
     }
