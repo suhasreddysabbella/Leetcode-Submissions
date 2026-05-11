@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0027-remove-element) |
 | [0303-range-sum-query-immutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 ## String
 |  |
 | ------- |
@@ -47,8 +48,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
