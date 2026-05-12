@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 ## Trie
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -101,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
@@ -114,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
