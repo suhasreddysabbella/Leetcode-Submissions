@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
+| [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
