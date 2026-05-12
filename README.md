@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -122,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
