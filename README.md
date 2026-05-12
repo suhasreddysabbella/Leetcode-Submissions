@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [0803-bricks-falling-when-hit](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0803-bricks-falling-when-hit) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [0803-bricks-falling-when-hit](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0803-bricks-falling-when-hit) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
+| [0803-bricks-falling-when-hit](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0803-bricks-falling-when-hit) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
