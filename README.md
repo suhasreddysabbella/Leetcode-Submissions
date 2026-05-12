@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0803-bricks-falling-when-hit) |
 | [0839-similar-string-groups](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0765-couples-holding-hands) |
 | [0839-similar-string-groups](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [0803-bricks-falling-when-hit](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0803-bricks-falling-when-hit) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
