@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0743-network-delay-time) |
 | [0765-couples-holding-hands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0765-couples-holding-hands) |
 | [0839-similar-string-groups](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0765-couples-holding-hands) |
 | [0839-similar-string-groups](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0803-bricks-falling-when-hit) |
 | [0839-similar-string-groups](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0839-similar-string-groups) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0695-max-area-of-island) |
 | [0803-bricks-falling-when-hit](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0803-bricks-falling-when-hit) |
 | [0994-rotting-oranges](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0994-rotting-oranges) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
 | ------- |
@@ -154,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/0765-couples-holding-hands) |
+## Binary Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/suhasreddysabbella/Leetcode-Submissions/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
